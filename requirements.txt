@@ -1,0 +1,4 @@
+streamlit==1.29.0
+chromadb==0.4.22
+sentence-transformers==2.2.2
+langchain==0.1.0
